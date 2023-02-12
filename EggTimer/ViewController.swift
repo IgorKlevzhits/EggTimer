@@ -41,9 +41,9 @@ class ViewController: UIViewController {
         return progressView
     }()
     
-    let eggTimes = [0 : 5,
-                    1 : 7,
-                    2 : 12]
+    let eggTimes = [0 : 300,
+                    1 : 420,
+                    2 : 720]
     
     var timer = Timer()
     
